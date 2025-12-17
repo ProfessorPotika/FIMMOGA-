@@ -1,0 +1,2 @@
+dataset,method,k,p,pop_size,generations,mc_ga,mc_report,spread,one_minus_gini,maxmin,one_minus_parity,welfare,ga_time_s,seeds,pick_mode
+OpenFlights-NA,"FIMMOGA (orig, MC fitness)",20,0.1,60,60,200,2000,282.8685,0.7787581395625504,0.18454926108374375,0.5240140285262342,0.6358828685665758,772.3234190940857,"[3599, 6766, 5503, 4304, 1932, 3690, np.int64(7194), np.int64(5507), 5521, np.int64(7962), 2821, np.int64(113), 5548, 5847, 6728, 7095, 147, np.int64(2713), 54, np.int64(5809)]",sum

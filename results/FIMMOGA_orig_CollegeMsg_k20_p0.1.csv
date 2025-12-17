@@ -1,0 +1,2 @@
+dataset,method,k,p,pop_size,generations,mc_ga,mc_report,spread,one_minus_gini,maxmin,one_minus_parity,welfare,ga_time_s,seeds,pick_mode
+CollegeMsg,"FIMMOGA (orig, MC fitness)",20,0.1,60,60,200,2000,892.221,0.8622429270897713,0.2624423076923085,0.825437944236636,0.6465161904107839,2163.7645211219788,"[238, 1499, 808, np.int64(1577), 1200, 1514, 1256, 775, 305, 764, np.int64(769), 244, 1456, 1735, 384, 1844, np.int64(427), np.int64(1145), 633, 1192]",sum

@@ -1,0 +1,2 @@
+dataset,algo,k,p,mc_select,mc_report,time_select_s,time_eval_s,spread,one_minus_gini,maxmin,one_minus_parity,welfare,seeds
+Email-Eu-core,CELF++,20,0.1,200,200,1428.8155109882355,0.6697039604187012,716.93,0.8733505152382567,0.24,0.5420818433002373,0.8286458574694139,"[305, 916, 999, 1000, 414, 928, 546, 552, 717, 175, 907, 609, 253, 198, 781, 542, 72, 402, 143, 469]"

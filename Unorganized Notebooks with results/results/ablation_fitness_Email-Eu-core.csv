@@ -1,0 +1,3 @@
+dataset,fitness,GA_time_s,Spread,Gini1m,MaxMin,Parity1,Welfare
+Email-Eu-core,MC-in-GA (orig),1670.4492588043213,,,,,
+Email-Eu-core,RIS-in-GA (ours),278.4082098007202,719.6975,0.9010155037681116,0.34375,0.6181404070787064,0.8478774999698399

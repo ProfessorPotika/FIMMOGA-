@@ -1,0 +1,2 @@
+dataset,method,k,p,pop_size,generations,mc_ga,mc_report,spread,one_minus_gini,maxmin,one_minus_parity,welfare,ga_time_s,seeds,pick_mode
+Email-Eu-core,"FIMMOGA (orig, MC fitness)",20,0.1,60,60,200,2000,724.827,0.9142854091882242,0.4685,0.7234446795635463,0.8605054556620957,1925.4818439483643,"[716, 975, 524, np.int64(784), 645, 758, 769, 876, 650, 614, np.int64(870), 821, 901, 673, 759, 920, 788, 824, np.int64(430), 712]",sum

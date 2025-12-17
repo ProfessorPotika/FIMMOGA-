@@ -1,0 +1,2 @@
+dataset,method,k,p,pop_size,generations,mc_ga,mc_report,spread,one_minus_gini,maxmin,one_minus_parity,welfare,ga_time_s,seeds,pick_mode
+Cora,"FIMMOGA (orig, MC fitness)",20,0.1,60,60,200,2000,96.5425,0.9583072435907389,0.035014035087719164,0.9961882924047315,0.1968789914003642,164.30601906776428,"[1986, 1803, 1202, 1441, 1113, 22, 1585, 88, 154, 1224, 207, 1131, 667, 990, 1013, 598, 1649, 1072, 2034, 258]",sum
