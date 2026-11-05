@@ -1,0 +1,1 @@
+Cite Srinivas, A. J., Potikas, P., Andreopoulos, W., & Potika, K. (2026, July). Fair Influence Maximization with Reverse Influence Sampling Boosted Multi-Objective Genetic Algorithm. In 2026 IEEE 12th International Conference on Big Data Computing Service and Machine Learning Applications (BigDataService) (pp. 138-145). IEEE.OI: 10.1109/BigDataService70481.2026.00027
